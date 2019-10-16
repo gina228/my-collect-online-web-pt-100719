@@ -7,5 +7,4 @@ i = 0
   end
   new_collection
 end
-end
 
